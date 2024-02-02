@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 277;
+    color: 	#00FFFF;
+}
+body{background-image: url(imgonline-com-ua-Resize-Ia3iicLq2jmGhhF-bBpAO38KF-transformed.jpeg);}
+.table{
+    width: 300px; 
+    border: 1px solid rgb(0, 255, 238); 
+    margin: auto;  
+    width: 100%;
+ }
+ .two{color: crimson;
+font: size 110%;
+}
+.one {
+    font-size: 110%;
+    color: red;
+}
+.three {
+    font-size: 110%;
+    color: red;
+}
+h3 {
+  color: red;
+  font-size: 150%;
+    
+}
+a {
+    color: antiquewhite;
+}
+.last{
+    color: chartreuse;
+}

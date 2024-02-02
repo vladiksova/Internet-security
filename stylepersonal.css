@@ -1,0 +1,15 @@
+body{background-image: url(imgonline-com-ua-Resize-Ia3iicLq2jmGhhF-bBpAO38KF-transformed.jpeg);
+
+color: chartreuse;
+font-size: 130%;
+}
+h1{
+    text-align: center;
+
+color: darkgreen;
+
+}
+img{
+    float:left; 
+    margin: 7px 7px 7px 0; 
+}

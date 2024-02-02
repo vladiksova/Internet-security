@@ -1,0 +1,13 @@
+h1{text-align: center;
+    color: cornflowerblue;
+}
+body{background-image: url(imgonline-com-ua-Resize-Ia3iicLq2jmGhhF-bBpAO38KF-transformed.jpeg);
+  color: darkturquoise;
+font-size: 120%;
+}
+    img{
+        float:left; 
+        margin: 7px 7px 7px 0; 
+        
+    }
+    
